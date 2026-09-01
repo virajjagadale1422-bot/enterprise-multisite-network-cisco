@@ -1,4 +1,3 @@
-# enterprise-multisite-network-cisco
 # Enterprise Multi-Site Network Infrastructure
 ### Cisco Packet Tracer | Network Engineering Lab
 
