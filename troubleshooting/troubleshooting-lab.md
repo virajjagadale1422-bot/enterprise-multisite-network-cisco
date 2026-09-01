@@ -110,6 +110,23 @@ show interfaces trunk
 show interfaces status
 show ip route
 show ip ospf neighbor
+
+
+Final Connectivity Tests
+
+The following connectivity paths were tested:
+
+HR PC → HR Gateway
+IT PC → IT Gateway
+Server → Server Gateway
+
+Sales PC → Sales Gateway
+Finance PC → Finance Gateway
+Management PC → Management Gateway
+
+Router1 → Router2
+Router2 → ISP Router
+Internal PC → External PC
 show ip protocols
 show ip dhcp binding
 show ip dhcp pool
